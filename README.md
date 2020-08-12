@@ -1,5 +1,7 @@
 # Build slack UI using elm-ui
 
+<img width="600" src="./slack-ui.png" />
+
 ## Prerequisite
 
 - Install Elm
